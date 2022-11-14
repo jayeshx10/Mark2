@@ -23,19 +23,19 @@ var questions = [
     answer: "Shivneri"
   },
   {
-    question: chalk.blue.italic("What year was Shivaji born? "),
+    question: chalk.blue.italic("What year was Shivaji Maharaj born? "),
     answer: "1630"
   },
   {
-    question: chalk.blue.italic("Which Maratha clan did Shivaji belong to? "),
+    question: chalk.blue.italic("Which Maratha clan did Shivaji Maharaj belong to? "),
     answer: "Bhosle"
   },
   {
-    question: chalk.blue.italic("What is the name of Shivaji's father? "),
+    question: chalk.blue.italic("What is the name of Shivaji Maharaj's father? "),
     answer: "Shahaji"
   },
   {
-    question: chalk.blue.italic("Who was Shivaji's mother? "),
+    question: chalk.blue.italic("Who was Shivaji Maharaj's mother? "),
     answer: "Jijabai"
   },
   {
