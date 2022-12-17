@@ -1,11 +1,12 @@
 # Mark2
-ABOUT THE PROJECT:
+###ABOUT THE PROJECT:
 A basic CLI app of history quiz based on the life of Chhatrapati Shivaji Maharaj. Let's check your history game.
 ARE YOU READY?
 
-TECH STACK USED:
-JavaScript
-
+### BUILT WITH : 
+  
+  Javascript
+  
 LIVE LINK:
 https://replit.com/@JayeshPatil26/Mark2?embed=1&output=1
 
